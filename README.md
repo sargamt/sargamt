@@ -1,4 +1,4 @@
-## Hi, I'm Sargam 🦦🌱
+### Hi, I'm Sargam! 🦦🌱
 
 - 📘 I’m a second-year Computer Science student at the University of Florida! (also minoring in math and stats!)
 - 🫂 I’m currently the Shadowing Director for UF WiCSE (Women in Computer Science and Engineering)!
